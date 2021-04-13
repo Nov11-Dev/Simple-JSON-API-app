@@ -1,0 +1,15 @@
+{
+  "name": "mybackendapp",
+  "version": "1.0.0",
+  "description": "This is my my back end app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nguyen Khanh Duy Phan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1"
+  }
+}
